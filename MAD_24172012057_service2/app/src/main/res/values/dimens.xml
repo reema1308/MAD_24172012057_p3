@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">25sp</dimen>
+    <dimen name="m_top">20dp</dimen>
+    <dimen name="m_Horizontal">15dp</dimen>
+    <dimen name="m_start">10dp</dimen>
+    <dimen name="m_bottom">30dp</dimen>
+</resources>
